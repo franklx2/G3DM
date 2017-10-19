@@ -1,0 +1,16 @@
+.outer {
+	width:100%;
+}
+.inner {
+	display: inline-block;
+}
+
+.btn-small {
+	
+	font-size: 10px;
+}
+
+.well {
+	
+	background-color: white;
+}

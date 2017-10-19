@@ -1,0 +1,32 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:200,300');
+
+html,body {
+	height:100%;
+}
+
+body {
+	body {
+ margin: 0;
+ background-image: url(city sunset 1366.jpg);
+ background-size: 1440px 800px;
+ background-repeat:no-repeat;
+ display: compact;
+ font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a:link, a:visited {
+	color:#eee;
+}
+
+section {
+	min-height:100%;
+  	padding-top:13%;
+}
+
+.navbar {
+	height:80px;
+}
+
+.navbar-nav>.active>a, .navbar-nav>.active>a:hover, .navbar-nav>.active>a:focus {
+	background-color: transparent;
+}

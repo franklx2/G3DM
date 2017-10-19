@@ -1,0 +1,32 @@
+.jumbotron {
+  font-family: 'Libre Baskerville', serif;
+  padding: 30px 15px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #f9f9f9;
+  text-align: center;
+  background-size: cover;
+  text-shadow: 2px 2px black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Libre Baskerville', serif;
+  font-size:18px;
+}
+
+p {
+	font-family: 'Libre Baskerville', serif;
+	
+	font-size:18px;
+}
+
+div {
+	
+	font-family: 'Libre Baskerville', serif;
+	font-size:18px;
+}

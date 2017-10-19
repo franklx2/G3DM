@@ -1,0 +1,31 @@
+.jumbotron {
+  padding: 30px 15px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #f9f9f9;
+  text-align: center;
+  background-size: cover;
+  text-shadow: 2px 2px black;
+  font-family: 'Josefin Slab', serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Josefin Slab', serif;
+  font-size:22px;
+}
+
+p {
+	font-family: 'Josefin Slab', serif;
+	font-size:22px;
+}
+
+div {
+	
+	font-family: 'Josefin Slab', serif;
+	font-size:22px;
+}
